@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FirebaseLogin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="login_btn">LOGIN</string>
+    <string name="login_button_text">LOGIN</string>
+    <string name="login_prompt">Please Login</string>
+    <string name="settings_btn">Settings</string>
+    <string name="logout_button_text">Logout</string>
+    <string name="login_unsuccessful_msg">Login unsuccessful</string>
+    <string name="preference_private_or_public">private or public</string>
+    <string name="settings_privacy">Privacy Settings</string>
+</resources>
